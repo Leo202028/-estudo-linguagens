@@ -84,7 +84,7 @@ E até hoje continua sendo referência no mundo dos sistemas operacionais, com m
 
 
 
-![sla](<script type="module" src="https://www.redditstatic.com/js/concat?prefix=pt-BR/&amp;chunks=BQTI12ofO5,BoI-jFx7ea,C79mAjT-GG,CNg8zJp-NZ,DajQGvYS9M" fetchpriority="auto"></script>)
+![sla](https://d7hftxdivxxvm.cloudfront.net/?quality=80&resize_to=width&src=https%3A%2F%2Fartsy-media-uploads.s3.amazonaws.com%2F1E2blfmrxuSPUH-2oc08gw%252F14273043642_d63ded6c05_o%2B%25281%2529.png&width=910)
 
 
 
