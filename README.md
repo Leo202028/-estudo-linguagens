@@ -84,7 +84,7 @@ E até hoje continua sendo referência no mundo dos sistemas operacionais, com m
 
 
 
-![sla](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Ftecnoblog.net%2Fresponde%2Fmicrosoft-windows-conheca-a-historia-do-sistema-operacional-mais-popular-do-pc%2F&ved=0CBYQjRxqFwoTCJDy6ZCZ45IDFQAAAAAdAAAAABA5&opi=89978449) 
+![sla](https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Windows_1.0_screenshot.png)
 
 
 
