@@ -91,7 +91,7 @@ Consolidação e Popularidade (2001–2013)
 
 
 
-(https://live.staticflickr.com/3262/3246795063_c7ce65822c_b.jpg)
+![sla](https://live.staticflickr.com/3262/3246795063_c7ce65822c_b.jpg)
 
 
 Windows XP (2001) – Um dos sistemas mais populares da história.
