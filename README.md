@@ -82,9 +82,13 @@ E até hoje continua sendo referência no mundo dos sistemas operacionais, com m
 
 
 
-
+Consolidação e Popularidade (2001–2013)
 
 ![sla](https://d7hftxdivxxvm.cloudfront.net/?quality=80&resize_to=width&src=https%3A%2F%2Fartsy-media-uploads.s3.amazonaws.com%2F1E2blfmrxuSPUH-2oc08gw%252F14273043642_d63ded6c05_o%2B%25281%2529.png&width=910)
+
+
+![sla](https://upload.wikimedia.org/wikipedia/en/d/df/Aero_Example.png)
+
 
 
 
