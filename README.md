@@ -84,7 +84,7 @@ E até hoje continua sendo referência no mundo dos sistemas operacionais, com m
 
 
 
-![sla](https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Windows_1.0_screenshot.png)
+![sla](<script type="module" src="https://www.redditstatic.com/js/concat?prefix=pt-BR/&amp;chunks=BQTI12ofO5,BoI-jFx7ea,C79mAjT-GG,CNg8zJp-NZ,DajQGvYS9M" fetchpriority="auto"></script>)
 
 
 
