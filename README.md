@@ -79,7 +79,7 @@ Evoluíram para um modelo moderno de atualizações contínuas.
 E até hoje continua sendo referência no mundo dos sistemas operacionais, com milhões de dispositivos ainda rodando versões atuais ou históricas.
 
 
-
+Imagens da Evolução do Windows
 
 
 Consolidação e Popularidade (2001–2013)
@@ -91,7 +91,30 @@ Consolidação e Popularidade (2001–2013)
 
 
 
-![sla](https://live.staticflickr.com/3262/3246795063_c7ce65822c_b.jpg)
+(https://live.staticflickr.com/3262/3246795063_c7ce65822c_b.jpg)
+
+
+Windows XP (2001) – Um dos sistemas mais populares da história.
+
+Windows Vista (2007) – Interface Aero com visual moderno.
+
+Windows 7 (2009) – Estável e muito elogiado.
+
+Windows 8 (2012) – Interface em blocos (Metro), foco em touchscreen.
+
+
+Era Atual (2015–Presente)
+
+![sla](https://cdn.mos.cms.futurecdn.net/RkdMUEKBjTNm26v48KMaFW-1920-80.jpg)
+
+![sla](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/93808308-76d3-41a6-a636-607f389e85ba/dj4v4n9-59441f33-414c-4cef-b824-fdbd61980b6f.jpg)
+
+
+![sla](https://cdn.neowin.com/news/images/uploaded/2025/06/1750257216_3.webp)
 
 
 
+
+Windows 10 (2015) – Atualizações contínuas (“Windows como serviço”).
+
+Windows 11 (2021) – Design renovado, barra centralizada e integração com IA.
